@@ -74,3 +74,5 @@ Play around with it a bit more by trying out the following in this file:
 
 [ruby shebang]:
   https://www.learnhowtoprogram.com/ruby-and-rails/basic-ruby/basic-ruby-scripting
+
+https://github.com/G3o-R/phase-3-ruby-oo-inheritance-inheritance-lab
